@@ -8,7 +8,7 @@ I am someone who cleans your data, provide the plumbing, and make sense out of i
 - Technical consulting
 
 ### Past Projects:
-1. [Dam Safety Surveillance] - Owned by Jabatan Pengairan & Saliran Malaysia to monitor the well being of dam in Malaysia. A React apps + Laravel as API.
+1. Dam Safety Surveillance - Owned by Jabatan Pengairan & Saliran Malaysia to monitor the well being of dam in Malaysia. A React apps + Laravel as API.
 2. [Symprio Chatbot](www.symprio.com) - Built using React, Websocket, Nodejs, MongoDB
 
 📫 Reach me at muhaimin@mcstech.dev 
